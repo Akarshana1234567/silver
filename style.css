@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(crimson 5%,cornflowerblue 20%,teal 30%, aquamarine 20%, orange 45%,green 56%,magenta 16%,violet 80%,navy 34%,rgb(60, 115, 163) 14%);
+ 
+}
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
